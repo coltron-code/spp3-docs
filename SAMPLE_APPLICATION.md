@@ -1,4 +1,10 @@
-# SPP3 SAMPLE Application – ENS Indexer and Analytics Infrastructure
+# SPP3 Sample Application
+
+> This is a realistic, minimally viable submission for reference. It demonstrates clear structure, verifiable deliverables, and direct rationale. Not a template; use it to understand what a fundable application looks like.
+
+## Example: ENS Indexer and Analytics Infrastructure
+
+---
 
 **Team:** Blockscout Labs  
 **ENS handle:** blockscout.eth  
@@ -57,6 +63,6 @@ L2 ENS resolution is currently a gap that suppresses integrations. Developers sk
 
 ---
 
-### About This Sample
+## About This Sample
 
-This application is realistic rather than perfect. The SPP2 record is clean but not flawless (one rescoped milestone, disclosed promptly). The budget is lean and itemized. The success definition names a specific, verifiable number. The value case is direct—fragmented resolution suppresses integrations, which suppresses registrations—without overclaiming.
+This is a realistic, minimally viable submission. It demonstrates what a fundable application looks like: clear problem statement, verifiable milestones, lean budget, and direct rationale. The prior work is clean but not flawless (one rescoped milestone, disclosed promptly). Use this as a reference for structure and specificity, not as a template to copy.

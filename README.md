@@ -20,15 +20,8 @@ These documents govern the participation of all Service Providers selected throu
 - Records recipient details, project scope, service fees, payment terms, and KPIs
 - Executed by both the Foundation and selected Recipient prior to disbursement
 
-**SPP3 Application Acknowledgement Language** (`ENS_DAO_SPP_Application_Acknowledgement_Language_v1-0.pdf`)
-- Applicant acceptance language for the application form
-- To be displayed on the application page prior to submission
-- Confirms applicant understanding and acceptance of the Program Terms
-
-**See also:** SAMPLE_APPLICATION.md for reference
-
 ## Supporting Documents
 
 **spp3-proposal.md** — DAO-ratified program proposal (objectives, budget, committee composition)
 
-**SAMPLE_APPLICATION.md** — Sample application demonstrating strong candidacy across all criteria
+**SAMPLE_APPLICATION.md** — Sample application: realistic, minimally viable submission
