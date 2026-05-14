@@ -2,7 +2,7 @@
 
 Public governance documentation for the ENS DAO Service Provider Program Season 3 (SPP3).
 
-> **⚠️ Archival Notice:** These documents are currently hosted here and will be moved to the ENS DAO TeamSpace for permanent keeping. This repository serves as the authoritative source until the migration is complete.
+> **⚠️ Archival Notice:** These documents are currently hosted here and will be moved to the ENS DAO github for permanent keeping. This repository serves as the authoritative source until the migration is complete.
 
 ## Official Program Documents (Version 1.0, dated 14 May 2026)
 
