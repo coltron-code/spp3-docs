@@ -1,0 +1,38 @@
+# Environment & Secrets (never stage these)
+*.env
+*.env.local
+*.env.*.local
+.env*
+config/
+secrets/
+.credentials/
+.keys/
+
+# Private/temp (never in public repo)
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.tmp/
+
+# Build artifacts (if any)
+node_modules/
+dist/
+build/
+*.pyc
+
+# No code, no dependencies — docs/assets only
+*.js
+*.ts
+*.py
+*.go
+*.rs
+*.toml
+Dockerfile
+docker-compose.yml
+Makefile
+package.json
+requirements.txt
