@@ -25,6 +25,10 @@ These documents govern the participation of all Service Providers selected throu
 - To be displayed on the application page prior to submission
 - Confirms applicant understanding and acceptance of the Program Terms
 
+**See also:** SAMPLE_APPLICATION.md for reference
+
 ## Supporting Documents
 
 **spp3-proposal.md** — DAO-ratified program proposal (objectives, budget, committee composition)
+
+**SAMPLE_APPLICATION.md** — Sample application demonstrating strong candidacy across all criteria
