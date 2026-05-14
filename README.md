@@ -24,4 +24,6 @@ These documents govern the participation of all Service Providers selected throu
 
 **spp3-proposal.md** — DAO-ratified program proposal (objectives, budget, committee composition)
 
+**SPP3_SUBMISSION_TIMELINE.md** — Submission artifacts, application format, eligibility requirements, timeline
+
 **SAMPLE_APPLICATION.md** — Sample application: realistic, minimally viable submission
