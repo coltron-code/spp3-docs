@@ -65,4 +65,14 @@ L2 ENS resolution is currently a gap that suppresses integrations. Developers sk
 
 ## About This Sample
 
-This is a realistic, minimally viable submission. It demonstrates what a fundable application looks like: clear problem statement, verifiable milestones, lean budget, and direct rationale. The prior work is clean but not flawless (one rescoped milestone, disclosed promptly). Use this as a reference for structure and specificity, not as a template to copy.
+This is a realistic, minimally viable submission. It demonstrates what a fundable application looks like: clear problem statement, verifiable milestones, lean budget, and direct rationale. The prior work is clean but not flawless (one rescoped milestone, disclosed promptly).
+
+**You are free to structure your application differently.** This sample shows one format, but you have creative freedom in how you present your work—as long as you include all minimum criteria:
+- Prior delivery history (verifiable evidence)
+- Clear problem and approach
+- Specific, measurable success definition
+- Milestone structure with verification methods
+- Itemized budget
+- Direct rationale for why SPP3 funds this work
+
+Use this as a reference for specificity and clarity, not as a rigid template.
