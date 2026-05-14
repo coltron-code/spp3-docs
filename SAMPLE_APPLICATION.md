@@ -16,7 +16,7 @@
 
 ## Prior Work
 
-Blockscout has maintained open-source EVM block explorer infrastructure since 2018. During SPP2 we received $280,000 to build and maintain an ENS-native indexer supporting reverse resolution across mainnet and three L2s. All four milestones delivered on schedule. Quarterly reports posted to the forum: [Q1] [Q2] [Q3] [Q4]. One milestone was rescoped in Q2 (Base L2 support delayed by an upstream contract change); disclosed in the Q2 report and delivered in Q3.
+Blockscout has maintained open-source EVM block explorer infrastructure since 2018. During SPP2 we received $280,000 to build and maintain an ENS-native indexer supporting reverse resolution across mainnet and three L2s. All four milestones delivered on schedule. Quarterly reports posted to the forum (with links to verifiable deliverables in each). One milestone was rescoped in Q2 (Base L2 support delayed by an upstream contract change); disclosed in the Q2 report and delivered in Q3.
 
 ---
 
@@ -65,7 +65,13 @@ L2 ENS resolution is currently a gap that suppresses integrations. Developers sk
 
 ## About This Sample
 
-This is a realistic, minimally viable submission. It demonstrates what a fundable application looks like: clear problem statement, verifiable milestones, lean budget, and direct rationale. The prior work is clean but not flawless (one rescoped milestone, disclosed promptly).
+This is a realistic, minimally viable submission in text form. Real applications typically include substantial supporting material:
+- **Links** to prior work, repos, deployed contracts, live products
+- **Data & analytics** showing adoption, usage, or impact metrics
+- **Videos or demos** of infrastructure or products
+- **Supporting documents** (whitepapers, technical specs, audits)
+- **Letters of support** or partnership agreements
+- **Forum posts or public records** of prior delivery
 
 **You are free to structure your application differently.** This sample shows one format, but you have creative freedom in how you present your work—as long as you include all minimum criteria:
 - Prior delivery history (verifiable evidence)
@@ -75,4 +81,4 @@ This is a realistic, minimally viable submission. It demonstrates what a fundabl
 - Itemized budget
 - Direct rationale for why SPP3 funds this work
 
-Use this as a reference for specificity and clarity, not as a rigid template.
+Make your case with the evidence and artifacts that best support it. Use this as a reference for clarity and structure, not as a rigid template.
