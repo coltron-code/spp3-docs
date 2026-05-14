@@ -3,10 +3,10 @@
 The SPP3 program and committee were ratified by Snapshot on May 10. The committee is now seated. This post publishes the pre-submission artifacts required before the provider window opens and confirms the binding program timeline.
 
 Required information satisfied by this post:
-* Evaluation rubric
-* Application format and required fields
-* Standard service agreement/terms
 * Full process timeline with dates
+* Application format and required fields
+* Evaluation rubric
+* Standard service agreement/terms
 
 ---
 
@@ -189,6 +189,4 @@ Questions about the process or application format can be posted in the ENS Forum
 
 ## Next Steps for Providers
 
-The two-week application window opens on **May 19th**. You can use the information in this post to begin pre-work on applications.
-
-Also read: [ENS DAO Service Provider Program Terms](https://github.com/coltron-code/spp3-docs/blob/main/ENS_DAO_Service_Provider_Program_Terms_v1-0.pdf)
+The two-week application window opens on May 19th. You can use the information in this post to begin pre-work on applications.
